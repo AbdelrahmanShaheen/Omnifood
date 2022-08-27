@@ -32,4 +32,5 @@ Deployed Website: [Omnifood](https://omnifood-11.netlify.app/)
 
 ## Note
 
-I used media query to make it responsive on phones , small laptops ,Landscape tablets and small tablets .
+1- I used media query to make it responsive on phones , small laptops ,Landscape tablets and small tablets .
+2- The site works well on most browsers .
